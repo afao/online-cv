@@ -15,7 +15,7 @@ style: styles-3
 #Profile information
 name: 莊英發
 tagline: NTTU Student
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: myprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: ct0127lofev9@gmail.com
