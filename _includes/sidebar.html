@@ -34,6 +34,12 @@
                     {% else %}
                      <li class="youtube"><i class="fa fa-youtube"></i><a href="https://www.youtube.com/channel/UCpKg1jM_EicEleqrtTAXGBg" target="_blank">搜尋：莊英發</a></li>
                     {% endif %}
+                  
+                    {% if site.youtube %}
+                    <li class="team"><i class="fa fa-users"></i><a href="https://ecare.moe.gov.tw/nepaper/?tag=%E6%9D%B1%E5%A4%A7%E8%B3%87%E8%A8%8A%E5%BF%97%E5%B7%A5%E5%9C%98" target="_blank">{{site.team}}</a></li>
+                    {% else %}
+                     <li class="team"><i class="fa fa-users"></i><a href="https://ecare.moe.gov.tw/nepaper/?tag=%E6%9D%B1%E5%A4%A7%E8%B3%87%E8%A8%8A%E5%BF%97%E5%B7%A5%E5%9C%98" target="_blank">東大資訊志工</a></li>
+                    {% endif %}
                     
                 </ul>
             </div><!--//contact-container-->
