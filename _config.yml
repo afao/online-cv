@@ -14,7 +14,7 @@ style: styles-6
 
 #Profile information
 name: 莊英發
-tagline: NTNU MA 
+tagline:NTNU MA 
 pic: myprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
